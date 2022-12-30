@@ -1,0 +1,15 @@
+D:\CDAC NEW\dotnet\code\dotnet\Day2\Tester\bin\Debug\net7.0\Tester.exe
+D:\CDAC NEW\dotnet\code\dotnet\Day2\Tester\bin\Debug\net7.0\Tester.deps.json
+D:\CDAC NEW\dotnet\code\dotnet\Day2\Tester\bin\Debug\net7.0\Tester.runtimeconfig.json
+D:\CDAC NEW\dotnet\code\dotnet\Day2\Tester\bin\Debug\net7.0\Tester.dll
+D:\CDAC NEW\dotnet\code\dotnet\Day2\Tester\bin\Debug\net7.0\Tester.pdb
+D:\CDAC NEW\dotnet\code\dotnet\Day2\Tester\obj\Debug\net7.0\Tester.csproj.AssemblyReference.cache
+D:\CDAC NEW\dotnet\code\dotnet\Day2\Tester\obj\Debug\net7.0\Tester.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAC NEW\dotnet\code\dotnet\Day2\Tester\obj\Debug\net7.0\Tester.AssemblyInfoInputs.cache
+D:\CDAC NEW\dotnet\code\dotnet\Day2\Tester\obj\Debug\net7.0\Tester.AssemblyInfo.cs
+D:\CDAC NEW\dotnet\code\dotnet\Day2\Tester\obj\Debug\net7.0\Tester.csproj.CoreCompileInputs.cache
+D:\CDAC NEW\dotnet\code\dotnet\Day2\Tester\obj\Debug\net7.0\Tester.dll
+D:\CDAC NEW\dotnet\code\dotnet\Day2\Tester\obj\Debug\net7.0\refint\Tester.dll
+D:\CDAC NEW\dotnet\code\dotnet\Day2\Tester\obj\Debug\net7.0\Tester.pdb
+D:\CDAC NEW\dotnet\code\dotnet\Day2\Tester\obj\Debug\net7.0\Tester.genruntimeconfig.cache
+D:\CDAC NEW\dotnet\code\dotnet\Day2\Tester\obj\Debug\net7.0\ref\Tester.dll
