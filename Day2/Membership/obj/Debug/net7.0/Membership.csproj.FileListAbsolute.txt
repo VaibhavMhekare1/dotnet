@@ -1,0 +1,12 @@
+D:\CDAC NEW\dotnet\code\dotnet\Day2\Membership\obj\Debug\net7.0\Membership.csproj.AssemblyReference.cache
+D:\CDAC NEW\dotnet\code\dotnet\Day2\Membership\obj\Debug\net7.0\Membership.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAC NEW\dotnet\code\dotnet\Day2\Membership\obj\Debug\net7.0\Membership.AssemblyInfoInputs.cache
+D:\CDAC NEW\dotnet\code\dotnet\Day2\Membership\obj\Debug\net7.0\Membership.AssemblyInfo.cs
+D:\CDAC NEW\dotnet\code\dotnet\Day2\Membership\obj\Debug\net7.0\Membership.csproj.CoreCompileInputs.cache
+D:\CDAC NEW\dotnet\code\dotnet\Day2\Membership\bin\Debug\net7.0\Membership.deps.json
+D:\CDAC NEW\dotnet\code\dotnet\Day2\Membership\bin\Debug\net7.0\Membership.dll
+D:\CDAC NEW\dotnet\code\dotnet\Day2\Membership\bin\Debug\net7.0\Membership.pdb
+D:\CDAC NEW\dotnet\code\dotnet\Day2\Membership\obj\Debug\net7.0\Membership.dll
+D:\CDAC NEW\dotnet\code\dotnet\Day2\Membership\obj\Debug\net7.0\refint\Membership.dll
+D:\CDAC NEW\dotnet\code\dotnet\Day2\Membership\obj\Debug\net7.0\Membership.pdb
+D:\CDAC NEW\dotnet\code\dotnet\Day2\Membership\obj\Debug\net7.0\ref\Membership.dll

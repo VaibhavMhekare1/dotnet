@@ -13,3 +13,8 @@ D:\CDAC NEW\dotnet\code\dotnet\Day2\Tester\obj\Debug\net7.0\refint\Tester.dll
 D:\CDAC NEW\dotnet\code\dotnet\Day2\Tester\obj\Debug\net7.0\Tester.pdb
 D:\CDAC NEW\dotnet\code\dotnet\Day2\Tester\obj\Debug\net7.0\Tester.genruntimeconfig.cache
 D:\CDAC NEW\dotnet\code\dotnet\Day2\Tester\obj\Debug\net7.0\ref\Tester.dll
+D:\CDAC NEW\dotnet\code\dotnet\Day2\Tester\bin\Debug\net7.0\Membership.dll
+D:\CDAC NEW\dotnet\code\dotnet\Day2\Tester\bin\Debug\net7.0\Membership.pdb
+D:\CDAC NEW\dotnet\code\dotnet\Day2\Tester\obj\Debug\net7.0\Tester.csproj.CopyComplete
+D:\CDAC NEW\dotnet\code\dotnet\Day2\Tester\bin\Debug\net7.0\Hr.dll
+D:\CDAC NEW\dotnet\code\dotnet\Day2\Tester\bin\Debug\net7.0\Hr.pdb

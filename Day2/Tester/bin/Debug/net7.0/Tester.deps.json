@@ -7,14 +7,38 @@
   "targets": {
     ".NETCoreApp,Version=v7.0": {
       "Tester/1.0.0": {
+        "dependencies": {
+          "Hr": "1.0.0",
+          "Membership": "1.0.0"
+        },
         "runtime": {
           "Tester.dll": {}
+        }
+      },
+      "Hr/1.0.0": {
+        "runtime": {
+          "Hr.dll": {}
+        }
+      },
+      "Membership/1.0.0": {
+        "runtime": {
+          "Membership.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Tester/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Hr/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Membership/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
