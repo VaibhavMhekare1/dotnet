@@ -1,0 +1,15 @@
+D:\CDAC NEW\dotnet\code\dotnet\Day7\ExtensionApp\obj\Debug\net7.0\ExtensionApp.csproj.AssemblyReference.cache
+D:\CDAC NEW\dotnet\code\dotnet\Day7\ExtensionApp\obj\Debug\net7.0\ExtensionApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAC NEW\dotnet\code\dotnet\Day7\ExtensionApp\obj\Debug\net7.0\ExtensionApp.AssemblyInfoInputs.cache
+D:\CDAC NEW\dotnet\code\dotnet\Day7\ExtensionApp\obj\Debug\net7.0\ExtensionApp.AssemblyInfo.cs
+D:\CDAC NEW\dotnet\code\dotnet\Day7\ExtensionApp\obj\Debug\net7.0\ExtensionApp.csproj.CoreCompileInputs.cache
+D:\CDAC NEW\dotnet\code\dotnet\Day7\ExtensionApp\bin\Debug\net7.0\ExtensionApp.exe
+D:\CDAC NEW\dotnet\code\dotnet\Day7\ExtensionApp\bin\Debug\net7.0\ExtensionApp.deps.json
+D:\CDAC NEW\dotnet\code\dotnet\Day7\ExtensionApp\bin\Debug\net7.0\ExtensionApp.runtimeconfig.json
+D:\CDAC NEW\dotnet\code\dotnet\Day7\ExtensionApp\bin\Debug\net7.0\ExtensionApp.dll
+D:\CDAC NEW\dotnet\code\dotnet\Day7\ExtensionApp\bin\Debug\net7.0\ExtensionApp.pdb
+D:\CDAC NEW\dotnet\code\dotnet\Day7\ExtensionApp\obj\Debug\net7.0\ExtensionApp.dll
+D:\CDAC NEW\dotnet\code\dotnet\Day7\ExtensionApp\obj\Debug\net7.0\refint\ExtensionApp.dll
+D:\CDAC NEW\dotnet\code\dotnet\Day7\ExtensionApp\obj\Debug\net7.0\ExtensionApp.pdb
+D:\CDAC NEW\dotnet\code\dotnet\Day7\ExtensionApp\obj\Debug\net7.0\ExtensionApp.genruntimeconfig.cache
+D:\CDAC NEW\dotnet\code\dotnet\Day7\ExtensionApp\obj\Debug\net7.0\ref\ExtensionApp.dll

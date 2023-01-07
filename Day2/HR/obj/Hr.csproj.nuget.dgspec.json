@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CDAC NEW\\dotnet\\code\\dotnet\\Day2\\HR\\Hr.csproj": {}
+    "D:\\CDAC NEW\\dotnet\\code\\dotnet\\Day2\\HR\\HR.csproj": {}
   },
   "projects": {
-    "D:\\CDAC NEW\\dotnet\\code\\dotnet\\Day2\\HR\\Hr.csproj": {
+    "D:\\CDAC NEW\\dotnet\\code\\dotnet\\Day2\\HR\\HR.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CDAC NEW\\dotnet\\code\\dotnet\\Day2\\HR\\Hr.csproj",
-        "projectName": "Hr",
-        "projectPath": "D:\\CDAC NEW\\dotnet\\code\\dotnet\\Day2\\HR\\Hr.csproj",
+        "projectUniqueName": "D:\\CDAC NEW\\dotnet\\code\\dotnet\\Day2\\HR\\HR.csproj",
+        "projectName": "HR",
+        "projectPath": "D:\\CDAC NEW\\dotnet\\code\\dotnet\\Day2\\HR\\HR.csproj",
         "packagesPath": "C:\\Users\\marty\\.nuget\\packages\\",
         "outputPath": "D:\\CDAC NEW\\dotnet\\code\\dotnet\\Day2\\HR\\obj\\",
         "projectStyle": "PackageReference",

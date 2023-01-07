@@ -2,14 +2,14 @@
   "version": 3,
   "targets": {
     "net7.0": {
-      "Hr/1.0.0": {
+      "HR/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "compile": {
-          "bin/placeholder/Hr.dll": {}
+          "bin/placeholder/HR.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Hr.dll": {}
+          "bin/placeholder/HR.dll": {}
         }
       },
       "Membership/1.0.0": {
@@ -25,10 +25,10 @@
     }
   },
   "libraries": {
-    "Hr/1.0.0": {
+    "HR/1.0.0": {
       "type": "project",
-      "path": "../HR/Hr.csproj",
-      "msbuildProject": "../HR/Hr.csproj"
+      "path": "../HR/HR.csproj",
+      "msbuildProject": "../HR/HR.csproj"
     },
     "Membership/1.0.0": {
       "type": "project",
@@ -38,7 +38,7 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "Hr >= 1.0.0",
+      "HR >= 1.0.0",
       "Membership >= 1.0.0"
     ]
   },
@@ -67,8 +67,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\CDAC NEW\\dotnet\\code\\dotnet\\Day2\\HR\\Hr.csproj": {
-              "projectPath": "D:\\CDAC NEW\\dotnet\\code\\dotnet\\Day2\\HR\\Hr.csproj"
+            "D:\\CDAC NEW\\dotnet\\code\\dotnet\\Day2\\HR\\HR.csproj": {
+              "projectPath": "D:\\CDAC NEW\\dotnet\\code\\dotnet\\Day2\\HR\\HR.csproj"
             },
             "D:\\CDAC NEW\\dotnet\\code\\dotnet\\Day2\\Membership\\Membership.csproj": {
               "projectPath": "D:\\CDAC NEW\\dotnet\\code\\dotnet\\Day2\\Membership\\Membership.csproj"

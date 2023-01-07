@@ -1,0 +1,15 @@
+D:\CDAC NEW\dotnet\code\dotnet\Day7\ThreadTesting\bin\Debug\net7.0\ThreadTesting.exe
+D:\CDAC NEW\dotnet\code\dotnet\Day7\ThreadTesting\bin\Debug\net7.0\ThreadTesting.deps.json
+D:\CDAC NEW\dotnet\code\dotnet\Day7\ThreadTesting\bin\Debug\net7.0\ThreadTesting.runtimeconfig.json
+D:\CDAC NEW\dotnet\code\dotnet\Day7\ThreadTesting\bin\Debug\net7.0\ThreadTesting.dll
+D:\CDAC NEW\dotnet\code\dotnet\Day7\ThreadTesting\bin\Debug\net7.0\ThreadTesting.pdb
+D:\CDAC NEW\dotnet\code\dotnet\Day7\ThreadTesting\obj\Debug\net7.0\ThreadTesting.csproj.AssemblyReference.cache
+D:\CDAC NEW\dotnet\code\dotnet\Day7\ThreadTesting\obj\Debug\net7.0\ThreadTesting.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAC NEW\dotnet\code\dotnet\Day7\ThreadTesting\obj\Debug\net7.0\ThreadTesting.AssemblyInfoInputs.cache
+D:\CDAC NEW\dotnet\code\dotnet\Day7\ThreadTesting\obj\Debug\net7.0\ThreadTesting.AssemblyInfo.cs
+D:\CDAC NEW\dotnet\code\dotnet\Day7\ThreadTesting\obj\Debug\net7.0\ThreadTesting.csproj.CoreCompileInputs.cache
+D:\CDAC NEW\dotnet\code\dotnet\Day7\ThreadTesting\obj\Debug\net7.0\ThreadTesting.dll
+D:\CDAC NEW\dotnet\code\dotnet\Day7\ThreadTesting\obj\Debug\net7.0\refint\ThreadTesting.dll
+D:\CDAC NEW\dotnet\code\dotnet\Day7\ThreadTesting\obj\Debug\net7.0\ThreadTesting.pdb
+D:\CDAC NEW\dotnet\code\dotnet\Day7\ThreadTesting\obj\Debug\net7.0\ThreadTesting.genruntimeconfig.cache
+D:\CDAC NEW\dotnet\code\dotnet\Day7\ThreadTesting\obj\Debug\net7.0\ref\ThreadTesting.dll

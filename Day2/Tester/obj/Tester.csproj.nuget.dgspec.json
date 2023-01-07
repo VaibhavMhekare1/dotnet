@@ -4,12 +4,12 @@
     "D:\\CDAC NEW\\dotnet\\code\\dotnet\\Day2\\Tester\\Tester.csproj": {}
   },
   "projects": {
-    "D:\\CDAC NEW\\dotnet\\code\\dotnet\\Day2\\HR\\Hr.csproj": {
+    "D:\\CDAC NEW\\dotnet\\code\\dotnet\\Day2\\HR\\HR.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CDAC NEW\\dotnet\\code\\dotnet\\Day2\\HR\\Hr.csproj",
-        "projectName": "Hr",
-        "projectPath": "D:\\CDAC NEW\\dotnet\\code\\dotnet\\Day2\\HR\\Hr.csproj",
+        "projectUniqueName": "D:\\CDAC NEW\\dotnet\\code\\dotnet\\Day2\\HR\\HR.csproj",
+        "projectName": "HR",
+        "projectPath": "D:\\CDAC NEW\\dotnet\\code\\dotnet\\Day2\\HR\\HR.csproj",
         "packagesPath": "C:\\Users\\marty\\.nuget\\packages\\",
         "outputPath": "D:\\CDAC NEW\\dotnet\\code\\dotnet\\Day2\\HR\\obj\\",
         "projectStyle": "PackageReference",
@@ -132,8 +132,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\CDAC NEW\\dotnet\\code\\dotnet\\Day2\\HR\\Hr.csproj": {
-                "projectPath": "D:\\CDAC NEW\\dotnet\\code\\dotnet\\Day2\\HR\\Hr.csproj"
+              "D:\\CDAC NEW\\dotnet\\code\\dotnet\\Day2\\HR\\HR.csproj": {
+                "projectPath": "D:\\CDAC NEW\\dotnet\\code\\dotnet\\Day2\\HR\\HR.csproj"
               },
               "D:\\CDAC NEW\\dotnet\\code\\dotnet\\Day2\\Membership\\Membership.csproj": {
                 "projectPath": "D:\\CDAC NEW\\dotnet\\code\\dotnet\\Day2\\Membership\\Membership.csproj"

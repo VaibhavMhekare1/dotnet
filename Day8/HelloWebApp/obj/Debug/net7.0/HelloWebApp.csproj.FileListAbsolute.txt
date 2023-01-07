@@ -1,0 +1,8 @@
+D:\CDAC NEW\dotnet\code\dotnet\Day8\HelloWebApp\obj\Debug\net7.0\HelloWebApp.csproj.AssemblyReference.cache
+D:\CDAC NEW\dotnet\code\dotnet\Day8\HelloWebApp\obj\Debug\net7.0\HelloWebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAC NEW\dotnet\code\dotnet\Day8\HelloWebApp\obj\Debug\net7.0\HelloWebApp.AssemblyInfoInputs.cache
+D:\CDAC NEW\dotnet\code\dotnet\Day8\HelloWebApp\obj\Debug\net7.0\HelloWebApp.AssemblyInfo.cs
+D:\CDAC NEW\dotnet\code\dotnet\Day8\HelloWebApp\obj\Debug\net7.0\HelloWebApp.csproj.CoreCompileInputs.cache
+D:\CDAC NEW\dotnet\code\dotnet\Day8\HelloWebApp\obj\Debug\net7.0\HelloWebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\CDAC NEW\dotnet\code\dotnet\Day8\HelloWebApp\obj\Debug\net7.0\HelloWebApp.RazorAssemblyInfo.cache
+D:\CDAC NEW\dotnet\code\dotnet\Day8\HelloWebApp\obj\Debug\net7.0\HelloWebApp.RazorAssemblyInfo.cs

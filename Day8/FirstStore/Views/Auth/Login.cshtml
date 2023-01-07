@@ -1,0 +1,17 @@
+@{
+    ViewData["Title"] = "login page";
+}
+<h1>Login Page</h1>
+    <hr>
+<div class="text-center">
+    
+    <form action="/auth/validate" method="post">
+    <input type="text" id="email" name="email" placeholder="Enter your email" required><br>
+    <label for="email"><b>Username</b></label><br><br>
+    <input type="password" id="password" name="password" placeholder="Enter Your Password" required><br>
+    <label for="password"><b>Password</b></label><br><br>
+    <button type="submit">Login</button>
+    </form>
+</div>
+
+

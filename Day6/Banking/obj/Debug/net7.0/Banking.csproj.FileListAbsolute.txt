@@ -1,0 +1,15 @@
+D:\CDAC NEW\dotnet\code\dotnet\Day6\Banking\bin\Debug\net7.0\Banking.exe
+D:\CDAC NEW\dotnet\code\dotnet\Day6\Banking\bin\Debug\net7.0\Banking.deps.json
+D:\CDAC NEW\dotnet\code\dotnet\Day6\Banking\bin\Debug\net7.0\Banking.runtimeconfig.json
+D:\CDAC NEW\dotnet\code\dotnet\Day6\Banking\bin\Debug\net7.0\Banking.dll
+D:\CDAC NEW\dotnet\code\dotnet\Day6\Banking\bin\Debug\net7.0\Banking.pdb
+D:\CDAC NEW\dotnet\code\dotnet\Day6\Banking\obj\Debug\net7.0\Banking.csproj.AssemblyReference.cache
+D:\CDAC NEW\dotnet\code\dotnet\Day6\Banking\obj\Debug\net7.0\Banking.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAC NEW\dotnet\code\dotnet\Day6\Banking\obj\Debug\net7.0\Banking.AssemblyInfoInputs.cache
+D:\CDAC NEW\dotnet\code\dotnet\Day6\Banking\obj\Debug\net7.0\Banking.AssemblyInfo.cs
+D:\CDAC NEW\dotnet\code\dotnet\Day6\Banking\obj\Debug\net7.0\Banking.csproj.CoreCompileInputs.cache
+D:\CDAC NEW\dotnet\code\dotnet\Day6\Banking\obj\Debug\net7.0\Banking.dll
+D:\CDAC NEW\dotnet\code\dotnet\Day6\Banking\obj\Debug\net7.0\refint\Banking.dll
+D:\CDAC NEW\dotnet\code\dotnet\Day6\Banking\obj\Debug\net7.0\Banking.pdb
+D:\CDAC NEW\dotnet\code\dotnet\Day6\Banking\obj\Debug\net7.0\Banking.genruntimeconfig.cache
+D:\CDAC NEW\dotnet\code\dotnet\Day6\Banking\obj\Debug\net7.0\ref\Banking.dll
